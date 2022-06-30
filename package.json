@@ -2,7 +2,7 @@
   "name": "my-app",
   "homepage": "https://gitname.github.io/avatarMaking",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@patternfly/react-core": "^4.221.3",
     "@progress/kendo-licensing": "^1.2.2",

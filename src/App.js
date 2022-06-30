@@ -39,7 +39,7 @@ useEffect(() => {
 
 
   return (
-    <Routes>
+    <Routes  >
 <Route path="/" element={<Profile profile={profile} />}/>
         <Route path="profileEdit" element={<EditCodeExampler setmainImage={setmainImage} setprofile={setprofile}/>}/>
         <Route path="quiz" element={<Quiz/>}/>
