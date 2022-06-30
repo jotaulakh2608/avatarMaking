@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avatarMaking/static/css/main.7072d6d8.css",
+    "main.js": "/avatarMaking/static/js/main.60e143de.js",
+    "static/js/787.28cb0dcd.chunk.js": "/avatarMaking/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/avatarMaking/index.html",
+    "main.7072d6d8.css.map": "/avatarMaking/static/css/main.7072d6d8.css.map",
+    "main.60e143de.js.map": "/avatarMaking/static/js/main.60e143de.js.map",
+    "787.28cb0dcd.chunk.js.map": "/avatarMaking/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7072d6d8.css",
+    "static/js/main.60e143de.js"
+  ]
+}
